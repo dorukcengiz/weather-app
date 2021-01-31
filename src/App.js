@@ -78,8 +78,9 @@ function App() {
             <button type='submit'> Search</button>
           </form>
         </div>
+
         {typeof weather.main != 'undefined' ? (
-          <div data-aos='zoom-in'>
+          <div data-aos='fade-up' data-aos-anchor-placement='center-center'>
             <div className='location-box'>
               <div className='location'>
                 {weather.name},{weather.sys.country}
