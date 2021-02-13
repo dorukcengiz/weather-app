@@ -34,7 +34,7 @@ The full project requirements can be found below.
 > Clone the repository to your local machine
 
 sh
-$ --https://github.com/dorukcengiz/react-movie-app
+$ --https://github.com/dorukcengiz/weather-app
 
 > cd into the directory, install dependencies, build and start
 
@@ -59,7 +59,7 @@ and npm run start.
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/dorukcengiz/react-movie-app/issues).
 
-1. Fork it (https://github.com/dorukcengiz/weather-app.git/fork)
+1. Fork it (https://github.com/dorukcengiz/weather-app)
 2. Create your working branch (git checkout -b [choose-a-name])
 3. Commit your changes (git commit -am 'what this commit will fix/add/improve')
 4. Push to the branch (git push origin [chosen-name])
