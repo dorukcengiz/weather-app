@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/dorukcengiz/react-movie-app" target="_blank">
+  <a href="https://github.com/dorukcengiz/weather-app" target="_blank">
     Picture
   </a>
 </p>
